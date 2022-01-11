@@ -1,0 +1,1 @@
+Git é um versionamento de código distribuído, criado por Linus Torvalds. 
